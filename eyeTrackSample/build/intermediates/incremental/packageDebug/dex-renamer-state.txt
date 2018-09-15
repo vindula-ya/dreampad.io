@@ -1,0 +1,7 @@
+#Sat Sep 15 06:44:36 IST 2018
+base.0=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5b9cba0c0f0e6cf4426848ad56b1d065721f1f2a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_577eb5a8b566e6c52db12204ff19ce7e84ba409f/classes.dex
+base.1=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_577eb5a8b566e6c52db12204ff19ce7e84ba409f
+file.0=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5b9cba0c0f0e6cf4426848ad56b1d065721f1f2a/classes.dex

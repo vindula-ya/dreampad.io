@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a83e3986f86c1d0faa189586c24432aacce3c3e">
+        <dex dex="/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5b9cba0c0f0e6cf4426848ad56b1d065721f1f2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_577eb5a8b566e6c52db12204ff19ce7e84ba409f/classes.dex" />
+    </item>
+
+</items>

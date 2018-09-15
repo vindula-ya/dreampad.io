@@ -1,4 +1,7 @@
-# Dreampad.io
-Final year research is based on a screening tool for autistic children in Sri Lanka. This research was based on mobile application to interact with children and pre-identify the autistic children.
-Early detection of Autism is very important. Because there are treatments for early stages in childhood of an autistic children. In Sri Lanka there is no screening application for them. 
-This screening tool named as "Dreampad" for give a hope to the autistic children to win the world. 
+# eyeTrackSample
+## Description
+Simple sample, for eye tracking with OpenCV on Android
+![Screenshot](http://romanhosek.cz/wp-content/uploads/2013/01/device-2013-01-20-185851.png)
+<br/>
+This code is part of [tutorial](http://romanhosek.cz/android-eye-detection-updated-for-opencv-2-4-6/)
+Feel free to comment, pull requests welcome

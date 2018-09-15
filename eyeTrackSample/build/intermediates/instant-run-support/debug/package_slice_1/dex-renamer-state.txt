@@ -1,0 +1,4 @@
+#Sat Sep 15 06:11:28 IST 2018
+base.0=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
+renamed.0=classes.dex
+file.0=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex

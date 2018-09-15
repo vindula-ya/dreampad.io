@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/res/merged/debug/raw/lbpcascade_frontalface.xml",
+        "source": "/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/src/main/res/raw/lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/res/merged/debug/raw/haarcascade_lefteye_2splits.xml",
+        "source": "/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/src/main/res/raw/haarcascade_lefteye_2splits.xml"
+    }
+]

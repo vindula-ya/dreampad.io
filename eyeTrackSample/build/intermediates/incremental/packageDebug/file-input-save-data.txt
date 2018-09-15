@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Sat Sep 15 06:44:37 IST 2018
+2.base=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/res/resources-debug.ap_
+5.file=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/res/resources-debug.ap_/res/raw/lbpcascade_frontalface.xml
+5.set=ANDROID_RESOURCE
+3.base=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/res/resources-debug.ap_
+6.file=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/res/resources-debug.ap_/res/layout/face_detect_surface_view.xml
+2.set=ANDROID_RESOURCE
+4.base=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_577eb5a8b566e6c52db12204ff19ce7e84ba409f
+7.file=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/res/resources-debug.ap_/res/raw/haarcascade_lefteye_2splits.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5b9cba0c0f0e6cf4426848ad56b1d065721f1f2a/classes.dex
+5.base=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/res/resources-debug.ap_
+4.set=DEX
+6.base=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/res/resources-debug.ap_
+1.file=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/res/resources-debug.ap_
+2.file=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/res/resources-debug.ap_/resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5b9cba0c0f0e6cf4426848ad56b1d065721f1f2a
+3.file=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/res/resources-debug.ap_/res/drawable/icon.png
+3.set=ANDROID_RESOURCE
+1.base=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/res/resources-debug.ap_
+4.file=/Volumes/Macintosh Data/Projects/Python/eyeTrackSample/eyeTrackSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_577eb5a8b566e6c52db12204ff19ce7e84ba409f/classes.dex
+0.set=DEX
